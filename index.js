@@ -1,10 +1,3 @@
-// flipping cards
-//$(".card").on(("click"), function () {
-//    $(this).toggleClass("flip");
-//});
-
-
-
 function setup () {
 
   document.getElementById("game_grid").innerHTML = "<h1>Loading...</h1>";
